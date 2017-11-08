@@ -1,0 +1,10 @@
+{
+  "Name": "skr.rs",
+  "DestinationType": "URLShortener",
+  "RequestType": "GET",
+  "RequestURL": "http://skr.rs/pub.php",
+  "Arguments": {
+    "url": "$input$"
+  },
+  "ResponseType": "Text"}
+    
